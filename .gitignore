@@ -1,3 +1,4 @@
 .env
 *.python_script
 /node_modules
+!needed_script.python_script
