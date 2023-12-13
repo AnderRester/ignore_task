@@ -1,2 +1,4 @@
 an image file
 Now file is changed.
+
+Now file is rolled back.
