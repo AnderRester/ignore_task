@@ -1,1 +1,2 @@
 an image file
+Now file is changed.
