@@ -2,3 +2,4 @@
 *.python_script
 /node_modules
 !needed_script.python_script
+/assets/image.txt
